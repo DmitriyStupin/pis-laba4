@@ -1,6 +1,6 @@
 # Лабораторная работа №4 по ПИС
-[Use-Case диаграмма UML](https://github.com/DmitriyStupin/pis-laba4/blob/main/Use-%D0%A1ase%20%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20UML.pdf) <br>
-[Интерфейсы и прецеденты](https://github.com/DmitriyStupin/pis-laba4/blob/main/%D0%9F%D0%98%D0%A1%20%E2%84%964%20(%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B%20%D0%B8%20%D0%BF%D1%80%D0%B5%D1%86%D0%B5%D0%B4%D0%B5%D0%BD%D1%82%D1%8B).pdf)
+[Use-Case диаграмма UML](https://github.com/DmitriyStupin/pis-laba4/blob/main/Use-%D0%A1ase%20%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20UML.pdf){target="_blank"} <br>
+[Интерфейсы и прецеденты](https://github.com/DmitriyStupin/pis-laba4/blob/main/%D0%9F%D0%98%D0%A1%20%E2%84%964%20(%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B%20%D0%B8%20%D0%BF%D1%80%D0%B5%D1%86%D0%B5%D0%B4%D0%B5%D0%BD%D1%82%D1%8B).pdf){target="_blank"}
 
 Форматы данных:
 1. Товар (Product)
